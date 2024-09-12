@@ -51,10 +51,9 @@ pip install -r requirements.txt
 ├── dataset.csv
 ├── credit-score-classification-eda-and-ann-model.ipynb
 ├── README.md
-└── images/
-    ├── output1.png
-    ├── output2.png
-    └── ...
+├── output1.png
+├── output2.png
+└── ...
 ```
 ## Data
 The dataset used for this project consists of financial behavior information such as annual income, number of bank accounts, delayed payments, outstanding debt, and monthly balances.
